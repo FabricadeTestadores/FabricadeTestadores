@@ -28,7 +28,7 @@ A nossa equipe é composta por:
 
 Na Fábrica de Testadores, realizamos uma série de atividades voltadas para a prática e disseminação de testes de software, tais como:
 
-- 📚 **Ministramos minicursos e workshops** sobre diversos tipos de testes, como:
+- 📚 **Ministramos minicursos, oficinas e workshops** sobre diversos tipos de testes, como:
   - Testes unitários
   - Testes de API
   - Testes Manuais
