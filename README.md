@@ -8,8 +8,7 @@ Este repositório contém todos os recursos e documentação necessários para a
 
 ## 🎯 Objetivo do Projeto
 
-O principal objetivo da Fábrica de Testadores é fornecer um ambiente de aprendizado e prática para testes de software, capacitando a comunidade através de treinamentos, compartilhamento de conhecimento e implementação de testes em sistemas reais. Queremos garantir **qualidade**, **segurança** e **eficiência** em soluções digitais, enquanto promovemos o crescimento acadêmico e profissional de nossos membros.
-
+O principal objetivo da Fábrica de Testadores é **fornecer um ambiente de aprendizado e prática para testes de software**, capacitando a comunidade através de treinamentos e compartilhamento de conhecimento. Como um projeto de extensão, buscamos levar conhecimento sobre qualidade de software à comunidade, promovendo a educação e a conscientização sobre a importância dos testes de software. Queremos garantir qualidade, segurança e eficiência em software, enquanto promovemos o crescimento acadêmico e profissional de nossos membros.
 
 ## 👥 Equipe
 
@@ -47,3 +46,5 @@ Se você deseja colaborar com a Fábrica de Testadores, sinta-se à vontade para
 
 Para saber mais sobre o projeto, entre em contato conosco:
 - **E-mail**: fabrica.testadores@uece.br
+- **Site**: www.gesaduece.com.br
+
