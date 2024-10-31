@@ -15,13 +15,15 @@ O principal objetivo da Fábrica de Testadores é **fornecer um ambiente de apre
 A nossa equipe é composta por:
 
 - **Professor**: Ismayle Santos
-- **Tester 1**: Pedro
-- **Tester 2**: Nicollas
+- **Tester 1**: Pedro Henrique
+- **Tester 2**: Walter
 - **Tester 3**: Wesley
 - **Tester 4**: Hidelbrando
 - **Tester 5**: Leticia
 - **Tester 6**: Lyanderson
 - **Tester 7**: Larissa
+
+- - **Ex-Tester**: Nicollas (jan/2024 - out/2024)
 
 
 ## 🚀 O que Fazemos
@@ -33,6 +35,7 @@ Na Fábrica de Testadores, realizamos uma série de atividades voltadas para a p
   - Testes de API
   - Testes Manuais
   - Testes Exploratórios
+  
 - 📝 **Realizamos palestras** para a comunidade acadêmica e profissional, abordando temas como a importância dos testes de software, metodologias de teste e melhores práticas.
 - 🎮 **Ensinamos a testar** de forma mais dinamica, usando jogos.
 
