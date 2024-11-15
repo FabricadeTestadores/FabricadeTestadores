@@ -51,3 +51,22 @@ Para saber mais sobre o projeto, entre em contato conosco:
 - **E-mail**: fabrica.testadores@uece.br
 - **Site**: www.gesaduece.com.br
 
+## 🎮 Sites para prática do QA 
+The Internet (Vários Testes UI):  the-internet.herokuapp.com
+UI Test Automation Playground (Vários testes):  uitestingplayground.com
+OpenCart Demo (Para E2E):  demo.opencmcart.com
+Magento eCommerce (Para E2E):  magento.softwaretestingboard.com/
+Sauce Labs Sample Apps (Ótimo para automação):  saucedemo.com
+Tools QA (Ótimo para prática de elementos):  demoqa.com
+OrangeHRM (Plataforma RH):  opensource-demo.orangehrmlive.com/
+Restful Booker (Testes de API):  restful-booker.herokuapp.com
+Parabank (Plataforma Banco):  parabank.parasoft.com
+PHP Travels (Plataforma Viagens):  phptravels.com/demo
+DummyJSON (Teste API/JSON):  dummyjson.com
+Pet store (Teste API SWAGGER):  petstore.swagger.io
+Buggy (Plataforma Carros):  buggy.justtestit.org
+
+
+
+
+
