@@ -22,6 +22,8 @@ A nossa equipe é composta por:
 - **Tester 5**: Leticia
 - **Tester 6**: Lyanderson
 - **Tester 7**: Larissa
+- **Tester 8**: Samuel
+- **Tester 9**: Gabriel
 
 - - **Ex-Tester**: Nicollas (jan/2024 - out/2024)
 
