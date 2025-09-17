@@ -16,16 +16,14 @@ A nossa equipe é composta por:
 
 - **Professor**: Ismayle Santos
 - **Tester 1**: Pedro Henrique
-- **Tester 2**: Walter
+- **Tester 2**: Wallison
 - **Tester 3**: Wesley
 - **Tester 4**: Hidelbrando
 - **Tester 5**: Leticia
-- **Tester 6**: Lyanderson
-- **Tester 7**: Larissa
-- **Tester 8**: Samuel
-- **Tester 9**: Gabriel
-
-- - **Ex-Tester**: Nicollas (jan/2024 - out/2024)
+- **Tester 6**: Larissa
+- **Tester 7**: Gabriel
+  
+- - **Ex-Tester**: Nicollas (jan/2024 - out/2024), Samuel (mai/2025 - ago/2025) e Lyanderson (abr/2024 - ago/2025)
 
 
 ## 🚀 O que Fazemos
@@ -51,4 +49,4 @@ Se você deseja colaborar com a Fábrica de Testadores, sinta-se à vontade para
 
 Para saber mais sobre o projeto, entre em contato conosco:
 - **E-mail**: fabrica.testadores@uece.br
-- **Site**: www.gesaduece.com.br
+- **Site**: [www.gesaduece.com.br](https://fabrica-testadores-uece.my.canva.site/)
